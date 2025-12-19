@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primary">#6200EE</color>
+    <color name="primary_dark">#3700B3</color>
+    <color name="background_app">#F5F5F5</color>
+    <color name="text_title">#212121</color>
+    <color name="text_body">#757575</color>
+
+    <color name="boca_fondo">#E8F0FE</color>
+    <color name="boca_texto">#003399</color>
+    <color name="river_fondo">#FEE8E8</color>
+    <color name="river_texto">#D32F2F</color>
+    <color name="madrid_fondo">#F5F5F5</color>
+    <color name="madrid_texto">#444444</color>
+    <color name="barca_fondo">#EFEBE9</color>
+    <color name="barca_texto">#A70042</color>
+</resources>

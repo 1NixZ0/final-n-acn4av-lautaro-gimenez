@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AFinal</string>
+
+    <string name="login_title">¡Bienvenido!</string>
+    <string name="login_subtitle">Ingresa para ver a tu equipo</string>
+    <string name="hint_email">Correo Electrónico</string>
+    <string name="hint_pass">Contraseña</string>
+    <string name="btn_ingresar">INGRESAR</string>
+    <string name="btn_registrarse">REGISTRARME</string>
+
+    <string name="reg_titulo">Registro de Hincha</string>
+    <string name="reg_nombre_hint">Nombre Completo</string>
+    <string name="reg_equipo_label">Selecciona tu equipo:</string>
+    <string name="btn_confirmar_registro">Confirmar Registro</string>
+    <string name="volver_login">¿Ya tienes cuenta? Vuelve al Login</string>
+
+    <string name="fanatico_de">Fanático de:</string>
+    <string name="titulo_partidos">Próximos Partidos</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+
+    <string name="buscando_partidos">Buscando partidos para:</string>
+    <string name="sin_partidos">Aún no hay partidos cargados para</string>
+    <string name="error_carga">Error al cargar perfil</string>
+</resources>
